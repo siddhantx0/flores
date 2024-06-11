@@ -238,6 +238,7 @@ zho_Hans    | Chinese (Simplified)
 zho_Hant    | Chinese (Traditional)
 zsm_Latn    | Standard Malay
 zul_Latn    | Zulu
+maderCHOD   | Hindi
 
 ## Latest Update
 Date: 2022-12-14
